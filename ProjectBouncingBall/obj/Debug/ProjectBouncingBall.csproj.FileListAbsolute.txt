@@ -1,0 +1,30 @@
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\bin\Debug\ProjectBouncingBall.exe.config
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\bin\Debug\ProjectBouncingBall.exe
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\bin\Debug\ProjectBouncingBall.pdb
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.Form1.resources
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.Properties.Resources.resources
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.exe
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.pdb
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.AutorInfo.resources
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.Information_about_the_progarm.resources
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\bin\Debug\sq-MK\ProjectBouncingBall.resources.dll
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.AutorInfo.sq-MK.resources
+C:\Users\User_PC\Documents\Университет+Софтуни\Първи курс\Зимен триместър\Графичен потребителски интерфейс (C#)\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\sq-MK\ProjectBouncingBall.resources.dll
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\bin\Debug\ProjectBouncingBall.exe.config
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\bin\Debug\ProjectBouncingBall.exe
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\bin\Debug\ProjectBouncingBall.pdb
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\bin\Debug\sq-MK\ProjectBouncingBall.resources.dll
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.csprojAssemblyReference.cache
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.AutorInfo.resources
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.Form1.resources
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.Information_about_the_progarm.resources
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.Properties.Resources.resources
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.AutorInfo.sq-MK.resources
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.csproj.GenerateResource.cache
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\sq-MK\ProjectBouncingBall.resources.dll
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.exe
+D:\GitHub\ProjectBouncingBall\ProjectBouncingBall\obj\Debug\ProjectBouncingBall.pdb
